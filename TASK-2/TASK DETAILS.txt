@@ -1,0 +1,23 @@
+>> Here is the background information on your task
+
+You have been asked to complete a bootcamp that will walk you through application security fundamentals. 
+
+JPMorgan Chase & Co. services customers from all around the world and keeping their information secure is of utmost importance. However, it is not only the security team’s responsibility to ensure systems are secure; one team simply cannot do it all. Security is everyone’s responsibility.
+
+As developers of the underlying systems, software engineers play a critical role by using secure coding practices and having an attacker’s mindset when designing systems. Furthermore, security extends into how developers conduct their day-to-day activities, which is especially relevant given the remote work environment.
+
+This bootcamp will give you the background to be able to reason about such situations.
+
+###############
+
+>>Here is your task
+
+We have curated a set of resources for you to go over. Feel free to skip around. The goal is for you to pick up some familiarity with security principles, not necessarily the exact details.
+
+Start with https://owasp.org/Top10/. The following are in scope A01, A02, A03, A04, A06, and A07. We recommend reading the description section and then one of the attack scenarios.
+Then, go through https://docs.djangoproject.com/en/3.2/topics/security/. It’s ok if not everything makes sense but try to get a general sense of how web frameworks think about security.
+You are now prepared to work through the quiz. The last question of the quiz is a bonus and relates to the next item.
+If you have time after the quiz, you will have the opportunity to enhance the security of a Django web application as a bonus activity. The instructions are in Task2_handson.md and the starter files are in mysite.zip.
+Acceptance Criteria: You have submitted the quiz.
+
+Estimated time for task completion: 1 hour depending on your learning style.
