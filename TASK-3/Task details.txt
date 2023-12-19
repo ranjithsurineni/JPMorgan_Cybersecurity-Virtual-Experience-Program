@@ -1,0 +1,46 @@
+>>>>Task 3
+ $>> Spam or Ham? Build an Email Classifier
+ $>> Filter out bad emails to protect your colleagues.
+
+############
+
+Here is the background information on your task.
+
+Business Email Compromise is a type of cybercrime that targets email systems.
+
+There are 5 categories of BEC: 
+
+1.CEO fraud
+2.account compromise
+3.false invoice scheme
+4.attorney impersonation
+5.data theft
+
+The entrypoint is a benign-looking email. Nowadays, corporate email is scanned before it lands in your inbox. During this scanning process, suspicious emails are filtered out. However, emails are complex vehicles that contain a wide variety of items. During the scanning process, each email will be scanned for its text, headers, hyperlinks, inline images, and attachments. 
+
+While detection systems have significantly improved with advances in machine learning, attackers are also constantly improving, and detection systems need to catch up. You will be building a functional prototype of one such system.
+
+#############
+
+>> Here is your task
+
+For the third module of this project, we will need you to accomplish the following:
+
+Set up your system by downloading the necessary files, tools and dependencies.
+Develop a machine learning model that classifies emails into two categories.
+We've broken down the steps for you in stages below so you can accomplish this task in an organized manner.
+
+Set Up:
+Before you can tackle any software or development task you need to set up your development environment. Your development environment refers to your system having all the required software installed to modify the code, as well as getting the code of the project itself onto your computer.
+
+To do this we've created a simple guide below on how to get your environment set up: Task3_setup.md
+
+    2. Purpose:
+
+The objective of this task is to learn about the stages of developing a machine learning model. This is applied in the context of email security, which is something that all organizations need to be cognizant of.
+
+    3. Acceptance Criteria:
+
+Using scikit learn, you were able to develop a machine learning model that classified emails into two categories. First, you had to preprocess the dataset so that it was in a format that the model could be trained on. Then, you selected the appropriate classifier for the task at hand. Then, you analyzed a variety of statistics to see how well the model performed. Finally, you looked under the cover of the machine learning model to see what it had learned.
+
+Estimated time for task completion: 1 hour depending on your learning style.
